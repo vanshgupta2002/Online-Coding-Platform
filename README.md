@@ -1,4 +1,4 @@
-# CS305-Online Coding Platform
+# Online Coding Platform
 
 Assuming you are running the application on Linux(Ubuntu)
 
@@ -80,6 +80,6 @@ After running these commands proper coverage reports will be generated.
 In our website, Only one is superuser with Creds:
 
 ```
-Email: 2020csb1102@iitrpr.ac.in
+Email: 2020csb1102@thapar.ac.in
 Password: "****"
 ```
